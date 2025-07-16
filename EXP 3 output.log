@@ -1,0 +1,11 @@
+Epoch 0, Loss: 2.1040
+Epoch 100, Loss: 0.0096
+Epoch 200, Loss: 0.0036
+Epoch 300, Loss: 0.0021
+Epoch 400, Loss: 0.0014
+Epoch 500, Loss: 0.0011
+Epoch 600, Loss: 0.0009
+Epoch 700, Loss: 0.0008
+Epoch 800, Loss: 0.0007
+Epoch 900, Loss: 0.0006
+Test Accuracy: 96.49%
